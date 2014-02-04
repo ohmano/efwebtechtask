@@ -25,7 +25,8 @@ I have selected Selenium Webdriver java API to automate the testing of the web a
   6. Change to Graph presentation under the gauges and verify that the graph is displayed.
      Change back to Summary presentation and verify that the speed and altitude history data presented. 
 
-### Stuff
+### Details
+
 
 Used libraries (available in repository):
   - junit-4.11.jar
