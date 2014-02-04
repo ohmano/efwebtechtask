@@ -1,7 +1,7 @@
 EF Web QA Technical Task
 =========
 
-I have used JUnit testing framework. JUnit is a Java library and one of the best for unit testing. With JUnit, you can check that your code works as designed, without the need to set up the complete application
+I have used JUnit testing framework. JUnit is one of the best Java library for unit testing. With JUnit, you can check that your code works as designed, without the need to set up the complete application
 
 I have selected Selenium Webdriver java API to automate the testing of the web applications, because it was developed to provide support for modern advanced web-app testing problems. It's a good choice when you have to test web pages where elements of a page may change without the page itself being reloaded.
 
@@ -27,6 +27,10 @@ I have selected Selenium Webdriver java API to automate the testing of the web a
 
 ### Details
 
+Source code:
+  - WebTechTaskTests.java - Contains tests executable as JUnit test.
+
+  - WebTechTaskDriver.java - I created an enhanced Firefox driver to handle this specific application.
 
 Used libraries (available in repository):
   - junit-4.11.jar
