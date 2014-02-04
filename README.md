@@ -19,7 +19,7 @@ I have selected Selenium Webdriver java API to automate the testing of the web a
      Turn ON altitude update on QA test task controls and verify that the rendering is started again.
   
   5. Turn OFF reconnect on disconnect on QA test task controls.
-     Wait until connection is closed and wait for a second.
+     Wait until connection is closed them wait for a second.
      Verify that the connection is not estabilished again.
 
   6. Change to Graph presentation under the gauges and verify that the graph is displayed.
